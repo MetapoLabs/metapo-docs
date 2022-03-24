@@ -5,6 +5,7 @@ Vote for posts with stablecoins, fair exposure social network content infrastruc
 
 ### Demo Link
 (English) https://www.youtube.com/watch?v=IrowxrQxN1U
+</br>
 (中文) https://www.youtube.com/watch?v=YVfC-S4hbwY
 </br>
 
@@ -18,6 +19,7 @@ https://drive.google.com/file/d/1fvokQ3jM1kp-DFP1RSwiJBssKt1NbKGs/view?usp=shari
 
 ### Team Information
 George, solidity developer, smart contracts, team leader. Discord:AAKK#9491
+</br>
 Wei, full-stack developer. Discord:wei#8181
 </br>
 
